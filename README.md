@@ -1,4 +1,7 @@
 # Pneumonia Detection from Chest X-Rays
+## Introduction
+
+This Project is for Udacity's Pneumonia detection using chest Xrays project within the course AI for healthcare.
 
 ## Project Overview
 
